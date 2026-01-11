@@ -9,6 +9,7 @@
 # Delta Lake tables (optional)
 *.delta
 _delta_log/
+*.zip
 
 # --- Environment files ---
 .env
@@ -48,3 +49,5 @@ __pycache__/
 /results/
 /models/
 /checkpoints/
+
+.gitignore
